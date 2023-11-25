@@ -1,0 +1,11 @@
+--xử lý thêm các lỗi đừng để chết client + server (LOGIN)
+--fetch file khi bên phía được request 
+
+
+
+
+--------OPTION TO DO---------------
+1. Client xóa file 
+2. Server add/delete client
+
+-------NHỮNG THỨ CHƯA LÀM ĐƯỢC-----------

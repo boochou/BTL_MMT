@@ -1,0 +1,4 @@
+--xử lý thêm các lỗi đừng để chết client + server (LOGIN)
+
+-- ktra lại fetch fname (thành công hay không, nếu đã có fname thì không cho fetch) #đã xong nhưng nhớ ktra lại
+-- ktra loại file khi fetch tại .py hong được
